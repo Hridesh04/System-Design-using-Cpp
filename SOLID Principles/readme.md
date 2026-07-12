@@ -1,1 +1,1 @@
-
+This repository contains code examples for all SOLID principles, including both violated and properly implemented cases for each principle. These examples are organized into separate folders to help illustrate the differences and best practices.
